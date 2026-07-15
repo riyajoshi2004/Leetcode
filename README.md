@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/riyajoshi2004/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/riyajoshi2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/riyajoshi2004/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0088-merge-sorted-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/riyajoshi2004/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
