@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/riyajoshi2004/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/riyajoshi2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/riyajoshi2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/riyajoshi2004/Leetcode/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/riyajoshi2004/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/riyajoshi2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Union-Find
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riyajoshi2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Queue
 |  |
