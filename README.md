@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyajoshi2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/riyajoshi2004/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/riyajoshi2004/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/riyajoshi2004/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -127,4 +128,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/riyajoshi2004/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/riyajoshi2004/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/riyajoshi2004/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
