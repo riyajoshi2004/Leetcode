@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/riyajoshi2004/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/riyajoshi2004/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/riyajoshi2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/riyajoshi2004/Leetcode/tree/master/0056-merge-intervals) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/riyajoshi2004/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/riyajoshi2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/riyajoshi2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/riyajoshi2004/Leetcode/tree/master/0127-word-ladder) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/riyajoshi2004/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/riyajoshi2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/riyajoshi2004/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/riyajoshi2004/Leetcode/tree/master/0200-number-of-islands) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/riyajoshi2004/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/riyajoshi2004/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/riyajoshi2004/Leetcode/tree/master/0131-palindrome-partitioning) |
