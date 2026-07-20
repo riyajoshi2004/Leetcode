@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/riyajoshi2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/riyajoshi2004/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
+| [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -84,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/riyajoshi2004/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyajoshi2004/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/riyajoshi2004/Leetcode/tree/master/0200-number-of-islands) |
+| [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyajoshi2004/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/riyajoshi2004/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/riyajoshi2004/Leetcode/tree/master/0200-number-of-islands) |
+| [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/riyajoshi2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/riyajoshi2004/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/riyajoshi2004/Leetcode/tree/master/0200-number-of-islands) |
+| [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/riyajoshi2004/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
