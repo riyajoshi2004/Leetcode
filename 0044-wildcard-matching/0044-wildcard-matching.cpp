@@ -14,7 +14,7 @@ public:
                 return dp[i][j]=f(i-1,j-1,s,p,dp);
             }
             if(p[i]=='*'){
-                return dp[i][j]=f(i-1,j,s,p,dp) | f(i,j-1,s,p,dp);
+                return dp[i][j]=f(i-1,j,s,p,dp) || f(i,j-1,s,p,dp);
             }
             return dp[i][j]=false;
     }
