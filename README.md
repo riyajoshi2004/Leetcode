@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/riyajoshi2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/riyajoshi2004/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/riyajoshi2004/Leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riyajoshi2004/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/riyajoshi2004/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/riyajoshi2004/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/riyajoshi2004/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
