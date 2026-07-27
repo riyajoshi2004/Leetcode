@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/riyajoshi2004/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/riyajoshi2004/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
