@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/riyajoshi2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/riyajoshi2004/Leetcode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/riyajoshi2004/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/riyajoshi2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/riyajoshi2004/Leetcode/tree/master/0455-assign-cookies) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/riyajoshi2004/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/riyajoshi2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/riyajoshi2004/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/riyajoshi2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/riyajoshi2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/riyajoshi2004/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/riyajoshi2004/Leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0912-sort-an-array) |
 ## Union-Find
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riyajoshi2004/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0912-sort-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Binary Search
