@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/riyajoshi2004/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/riyajoshi2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/riyajoshi2004/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/riyajoshi2004/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/riyajoshi2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/riyajoshi2004/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/riyajoshi2004/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riyajoshi2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/riyajoshi2004/Leetcode/tree/master/0136-single-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riyajoshi2004/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
