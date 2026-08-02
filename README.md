@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/riyajoshi2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/riyajoshi2004/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0189-rotate-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/riyajoshi2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/riyajoshi2004/Leetcode/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Recursion
