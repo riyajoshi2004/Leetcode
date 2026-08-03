@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/riyajoshi2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/riyajoshi2004/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/riyajoshi2004/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/riyajoshi2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/riyajoshi2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/riyajoshi2004/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -258,4 +260,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/riyajoshi2004/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riyajoshi2004/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
