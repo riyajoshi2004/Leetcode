@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/riyajoshi2004/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riyajoshi2004/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/riyajoshi2004/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/riyajoshi2004/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/riyajoshi2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/riyajoshi2004/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/riyajoshi2004/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/riyajoshi2004/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/riyajoshi2004/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
