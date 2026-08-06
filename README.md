@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/riyajoshi2004/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/riyajoshi2004/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/riyajoshi2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/riyajoshi2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/riyajoshi2004/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/riyajoshi2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/riyajoshi2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/riyajoshi2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/riyajoshi2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/riyajoshi2004/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/riyajoshi2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/riyajoshi2004/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/riyajoshi2004/Leetcode/tree/master/0739-daily-temperatures) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/riyajoshi2004/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/riyajoshi2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/riyajoshi2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/riyajoshi2004/Leetcode/tree/master/0189-rotate-array) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/riyajoshi2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/riyajoshi2004/Leetcode/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/riyajoshi2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/riyajoshi2004/Leetcode/tree/master/0131-palindrome-partitioning) |
