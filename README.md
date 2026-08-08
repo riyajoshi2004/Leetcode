@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/riyajoshi2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/riyajoshi2004/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyajoshi2004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/riyajoshi2004/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/riyajoshi2004/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/riyajoshi2004/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/riyajoshi2004/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/riyajoshi2004/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyajoshi2004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/riyajoshi2004/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/riyajoshi2004/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/riyajoshi2004/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyajoshi2004/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyajoshi2004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Enumeration
 |  |
 | ------- |
