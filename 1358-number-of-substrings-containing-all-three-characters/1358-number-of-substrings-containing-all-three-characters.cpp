@@ -1,18 +1,14 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-       int n=s.size();
-       int cnt[3]={0,0,0};
-       int left=0;
-       int ans=0;
-       for(int right=0;right<n;right++){
-        cnt[s[right]-'a']++;
-        while(cnt[0]>0 && cnt[1]>0 && cnt[2]>0){
-            cnt[s[left]-'a']--;
-            left++;
+        int LastSeen[3]={-1,-1,-1};
+        int cnt=0;
+        for(int i=0;i<s.size();i++){
+            LastSeen[s[i]-'a']=i;//store index
+            if(LastSeen[0]!=-1 && LastSeen[1]!=-1 && LastSeen[2]!=-1){
+                cnt=cnt+(1+min({LastSeen[0],LastSeen[1],LastSeen[2]}));
+            }
         }
-        ans+=left;
-       } 
-       return ans;
+        return cnt;
     }
 };
