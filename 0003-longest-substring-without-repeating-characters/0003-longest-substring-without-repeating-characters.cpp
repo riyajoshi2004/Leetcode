@@ -5,15 +5,15 @@ public:
         int l=0;
         int r=0;
         int maxLen=0;
-        unordered_map<char,int>mpp;
+        unordered_set<char>st;
         for(r=0;r<n;r++){
             char c=s[r];
-            if(mpp.count(c) && mpp[c]>=l){
-                l=mpp[c]+1;
+            while(st.count(c)){
+                st.erase(s[l]);
+                l++;
             }
-            mpp[c]=r;
-            int len=r-l+1;
-            maxLen=max(maxLen,len);
+            st.insert(c);
+            maxLen=max(maxLen,r-l+1);
         }
         return maxLen;
     }
