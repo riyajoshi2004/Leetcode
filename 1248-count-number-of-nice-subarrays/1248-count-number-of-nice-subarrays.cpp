@@ -1,28 +1,23 @@
 class Solution {
 public:
-    int atMost(vector<int>& nums, int k) {
-    if(k<0){
-            return 0;
-        }
-        int left=0;
-        int oddCount=0;
-        int ans=0;
-        for(int right=0;right<nums.size();right++){
-            if(nums[right]%2==1){
-                oddCount++;
+    int helper(vector<int>& nums, int k){
+        if(k<0) return 0;
+        int l=0;
+        int r=0;
+        int sum=0;
+        int cnt=0;
+        while(r<nums.size()){
+            sum=sum+(nums[r]%2); //add 0 if even , add 1 if odd
+            while(sum>k){
+                sum=sum-(nums[l]%2);
+                l++;
             }
-            while(oddCount>k){
-                if(nums[left]%2==1){
-                    oddCount--;
-                }
-                left++;
-            }
-            ans+=right-left+1;
+            cnt=cnt+(r-l+1);
+            r++;
         }
-        return ans;
-}
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        return atMost(nums, k) - atMost(nums, k - 1);
+        return cnt;
     }
-    
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return helper(nums,k) - helper(nums,k-1);
+    }
 };
